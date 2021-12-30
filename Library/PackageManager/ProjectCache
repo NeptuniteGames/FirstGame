@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637762299809501959
+      ticks: 637764889842916856
     m_Hash: 1174626616
   m_LockFileStatus:
     m_FilePath: C:/Users/Spoket/OneDrive/Dokument/Game Dev/Neptunite Games/FirstGame/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637762299809611681
+      ticks: 637764889843135461
     m_Hash: 3003732037
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
