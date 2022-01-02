@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 201501241}
   - component: {fileID: 201501242}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -482,7 +482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 696594700}
   - component: {fileID: 696594699}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
