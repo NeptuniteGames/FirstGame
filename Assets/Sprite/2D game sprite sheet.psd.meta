@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: fb5b5fd2aeafd2c4e82a66b482dbc60c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8526810043885786816
+    second: 2D game sprite sheet_0
+  - first:
+      213: -2410435584314059498
+    second: 2D game sprite sheet_1
+  - first:
+      213: -3727193228922848137
+    second: 2D game sprite sheet_2
+  - first:
+      213: 3558618677192388719
+    second: 2D game sprite sheet_3
+  - first:
+      213: 4282464060180871937
+    second: 2D game sprite sheet_4
+  - first:
+      213: -2921968078170037991
+    second: 2D game sprite sheet_5
+  - first:
+      213: -6276777365319848722
+    second: 2D game sprite sheet_6
+  - first:
+      213: -8959361226737559333
+    second: 2D game sprite sheet_7
+  - first:
+      213: 4720905875541187649
+    second: 2D game sprite sheet_8
+  - first:
+      213: 4472792730587453392
+    second: 2D game sprite sheet_9
+  - first:
+      213: 5230094440631970590
+    second: 2D game sprite sheet_10
+  - first:
+      213: -5924951092518493450
+    second: 2D game sprite sheet_11
+  - first:
+      213: -1870564550776307888
+    second: 2D game sprite sheet_12
+  - first:
+      213: -4432992773971788603
+    second: 2D game sprite sheet_13
+  - first:
+      213: -3835334113407022832
+    second: 2D game sprite sheet_14
+  - first:
+      213: -7908100867012934496
+    second: 2D game sprite sheet_15
+  - first:
+      213: -2275570723544049975
+    second: 2D game sprite sheet_16
+  - first:
+      213: 1192307226542592961
+    second: 2D game sprite sheet_17
+  - first:
+      213: 4162959413882241698
+    second: 2D game sprite sheet_18
+  - first:
+      213: -5602664856200312187
+    second: 2D game sprite sheet_19
+  - first:
+      213: -8148791868951782000
+    second: 2D game sprite sheet_20
+  - first:
+      213: -1810941514604883195
+    second: 2D game sprite sheet_21
+  - first:
+      213: -8913076384302996665
+    second: 2D game sprite sheet_22
+  - first:
+      213: 4387950158180380567
+    second: 2D game sprite sheet_23
+  - first:
+      213: 291917851089365946
+    second: 2D game sprite sheet_24
+  - first:
+      213: -3891012448945692397
+    second: 2D game sprite sheet_25
+  - first:
+      213: 7698094651275288576
+    second: 2D game sprite sheet_26
+  - first:
+      213: -8892671577881096110
+    second: 2D game sprite sheet_27
+  - first:
+      213: -5997656339877397018
+    second: 2D game sprite sheet_28
+  - first:
+      213: 9059744858261112273
+    second: 2D game sprite sheet_29
+  - first:
+      213: 2646412274306784150
+    second: 2D game sprite sheet_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D game sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3634
+        width: 595
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c69b05de80555670800000000000000
+      internalID: 8526810043885786816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3599
+        width: 1022
+        height: 1273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615dffa6b996c8ed0800000000000000
+      internalID: -2410435584314059498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 3619
+        width: 970
+        height: 1241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cffcc7189564cc0800000000000000
+      internalID: -3727193228922848137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2831
+        width: 1973
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607f1125d0c26130800000000000000
+      internalID: 3558618677192388719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2710
+        width: 453
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b357e8f5e5e6b30800000000000000
+      internalID: 4282464060180871937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2887
+        width: 644
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e4af93851377d0800000000000000
+      internalID: -2921968078170037991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 3218
+        width: 666
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece5e5fd3864e8a0800000000000000
+      internalID: -6276777365319848722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 2276
+        width: 880
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd856e9de64f9a380800000000000000
+      internalID: -8959361226737559333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2142
+        width: 1668
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cdfa1a1e6048140800000000000000
+      internalID: 4720905875541187649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2401
+        width: 206
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75d946a4d821e30800000000000000
+      internalID: 4472792730587453392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2394
+        width: 212
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b2d9bfe27059840800000000000000
+      internalID: 5230094440631970590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2412
+        width: 228
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26fd28f5856cda0800000000000000
+      internalID: -5924951092518493450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2087
+        width: 212
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3a85a37b6a06e0800000000000000
+      internalID: -1870564550776307888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2123
+        width: 204
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb98f1f88da72c0800000000000000
+      internalID: -4432992773971788603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2123
+        width: 194
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cf6fb1f726cac0800000000000000
+      internalID: -3835334113407022832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1897
+        width: 433
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a44cbd0928c04290800000000000000
+      internalID: -7908100867012934496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1907
+        width: 312
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d0e1cb7c8b60e0800000000000000
+      internalID: -2275570723544049975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1728
+        width: 390
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d33dfa1deb8010800000000000000
+      internalID: 1192307226542592961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1746
+        width: 262
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c1d6d78dc5c930800000000000000
+      internalID: 4162959413882241698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1624
+        width: 1422
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a8d9a5ff55f32b0800000000000000
+      internalID: -5602664856200312187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1040
+        width: 666
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d998628fca9ee80800000000000000
+      internalID: -8148791868951782000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1047
+        width: 612
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d7f8894e3ed6e0800000000000000
+      internalID: -1810941514604883195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 376
+        width: 196
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74362b180446e4480800000000000000
+      internalID: -8913076384302996665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 498
+        width: 179
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe576ab6125ec30800000000000000
+      internalID: 4387950158180380567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 491
+        width: 318
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe6c92db91d0400800000000000000
+      internalID: 291917851089365946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 697
+        width: 419
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31128fb0bc8500ac0800000000000000
+      internalID: -3891012448945692397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 372
+        width: 596
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00029909c4025da60800000000000000
+      internalID: 7698094651275288576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 127
+        width: 934
+        height: 1550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2505f28b052e69480800000000000000
+      internalID: -8892671577881096110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 126
+        width: 1094
+        height: 1610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfcb8f55b04cca0800000000000000
+      internalID: -5997656339877397018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 120
+        width: 791
+        height: 1815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54350b2fdaabd70800000000000000
+      internalID: 9059744858261112273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D game sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 136
+        width: 1286
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1a4331f1f9b420800000000000000
+      internalID: 2646412274306784150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edf7c3feca0fb92449b81ff3d1dd8225
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
