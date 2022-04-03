@@ -1,0 +1,6 @@
+Idéer till spelet.
+/////////
+- Inga double jumps, istället walljump.
+- life: healthbar, hearts, regeneration?
+- Checkpoints (flowers growing, fire flies)..
+/////////
